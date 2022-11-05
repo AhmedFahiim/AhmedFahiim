@@ -4,13 +4,13 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Fahiim. I'm a Frontend React Developer, Lives in Egypt, Cairo. I enjoy coding and create projects that solve unique problems. I'm in love with coding ciz it's one of my habits. quite obsessed with Learning new feaures and knowledge in general. You can find me on LinkedIn Ahmed_Fahiim. Feel free to DM me any time. You can also check out my website Fahiim Website for my blog and more.
+I'm Fahiim. I'm a Frontend React Developer, Lives in Egypt, Cairo. I enjoy coding and create projects that solve unique problems. I'm in love with coding ciz it's one of my habits. quite obsessed with Learning new feaures and knowledge in general. You can find me on LinkedIn [Ahmed_Fahiim](https://www.linkedin.com/in/ahmed-fahiim-187892238/). Feel free to DM me any time. You can also check out my website [Fahiim Website](https://portfolio-ahmedfahiim.vercel.app/) for my blog and more.
 
 &nbsp;
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on @Flower Studio. A E-Commerce project to sell flowers and view all store product . It will be Private project but i'll provide a link of it. Follow the LinkedIn feed to keep up with progress.
+I'm currently working on [@Flower Studio](). A E-Commerce project to sell flowers and view all store product . It will be Private project but i'll provide a link of it. Follow the LinkedIn feed to keep up with progress.
 
 ![Flower Studio](/assets/flower.png)
 
