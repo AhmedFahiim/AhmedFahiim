@@ -19,11 +19,10 @@ I'm currently working on [@Flower Studio](). A E-Commerce project to sell flower
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [What Is Callback Handlers Concept In React?](https://www.linkedin.com/feed/update/urn:li:activity:6994337070928310272/)
-- [What Is Destructuring In JavaScript And Usage Advantages In React? (Pending)]()
-- [Arrays Sorting Types In Algorithms By JavaScript (Pending)]()
-- [What is React Side Effects? (Pending)]()
+- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
+- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
